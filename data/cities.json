@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Milagro",
+      "country": "Ecuador",
+      "emoji": "🇪🇨",
+      "date": "2023-08-29T01:57:06.490Z",
+      "notes": "",
+      "position": {
+        "lat": "-2.1308562777325184",
+        "lng": "-79.59732055664064"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Sydney",
+      "country": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2023-08-29T14:26:18.105Z",
+      "notes": "Place that I would like to go",
+      "position": {
+        "lat": "-33.87041555094183",
+        "lng": "151.20346069335938"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Warab",
+      "country": "South Sudan",
+      "emoji": "🇸🇸",
+      "date": "2023-12-12T01:14:32.537Z",
+      "notes": "good",
+      "position": {
+        "lat": "7.798078531355303",
+        "lng": "28.828125000000004"
+      },
+      "id": 98443200
+    }
+  ]
+}
